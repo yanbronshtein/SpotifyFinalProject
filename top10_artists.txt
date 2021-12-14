@@ -1,0 +1,100 @@
+Rodney Carrington<Comedy>
+Nick Swardson<Comedy>
+Pablo Francisco<Comedy>
+Robert Kelly<Comedy>
+W. Kamau Bell<Comedy>
+Chas & Dave<Comedy>
+Coco Celis<Comedy>
+Andrew Dice Clay<Comedy>
+Mo Mandel<Comedy>
+Tommy Johnagin<Comedy>
+Nicola Piovani<Soundtrack>
+Deborah Lurie<Soundtrack>
+Heitor Pereira<Soundtrack>
+Paolo Buonvino<Soundtrack>
+Stephen Warbeck<Soundtrack>
+Warner Bros Studio Orchestra<Soundtrack>
+Stephen Barton<Soundtrack>
+Austin Wintory<Soundtrack>
+Joseph Loduca<Soundtrack>
+Blake Neely<Soundtrack>
+Winona Forever<Indie>
+Fantastic Negrito<Indie>
+George Ogilvie<Indie>
+Big Thief<Indie>
+Nick Hakim<Indie>
+Fantasy Guys<Indie>
+The Cave Singers<Indie>
+Shwayze<Indie>
+The Sweeplings<Indie>
+SAFIA<Indie>
+Charlie Haden<Jazz>
+Don Cherry<Jazz>
+Toco<Jazz>
+Miles Davis<Jazz>
+Omaure<Jazz>
+Pérez Prado<Jazz>
+Jeremy Pelt<Jazz>
+DJ Cam Quartet<Jazz>
+Shubh Saran<Jazz>
+Devin Townsend Band<Jazz>
+Normani<Pop>
+Hunter Phelps<Pop>
+Of Monsters and Men<Pop>
+Rogue Wave<Pop>
+Sum 41<Pop>
+Aminé<Pop>
+Adam Craig<Pop>
+Miranda Cosgrove<Pop>
+Avril Lavigne<Pop>
+Westside Connection<Pop>
+Cornucopia<Electronic>
+Datsik<Electronic>
+Primal Scream<Electronic>
+Soulwax<Electronic>
+Stereo MC's<Electronic>
+The Presets<Electronic>
+Ulrich Schnauss<Electronic>
+Morcheeba<Electronic>
+Meat Beat Manifesto<Electronic>
+Nitti Gritti<Electronic>
+Jaguares<Children’s Music>
+Blind Melon<Children’s Music>
+The Whitest Boy Alive<Children’s Music>
+The Black Crowes<Children’s Music>
+emawk<Children’s Music>
+Loyle Carner<Children’s Music>
+Mndsgn<Children’s Music>
+Total Giovanni<Children’s Music>
+Eve 6<Children’s Music>
+Mt. Eddy<Children’s Music>
+Buffalo Springfield<Folk>
+No Sin In Eden<Folk>
+Marié Digby<Folk>
+Bill Callahan<Folk>
+Aoife O'Donovan<Folk>
+Týr<Folk>
+Built To Spill<Folk>
+Turisas<Folk>
+Rose Cousins<Folk>
+Winterbourne<Folk>
+MadeinTYO<Hip-Hop>
+Lecrae<Hip-Hop>
+Souls Of Mischief<Hip-Hop>
+Drake<Hip-Hop>
+Chance the Rapper<Hip-Hop>
+Snoop Dogg<Hip-Hop>
+Jibbs<Hip-Hop>
+Social Club Misfits<Hip-Hop>
+Salt-N-Pepa<Hip-Hop>
+Diddy<Hip-Hop>
+10 Years<Rock>
+Eli Young Band<Rock>
+Foxygen<Rock>
+White Zombie<Rock>
+Slayer<Rock>
+Krokus<Rock>
+Wham!<Rock>
+The Jesus and Mary Chain<Rock>
+Dropkick Murphys<Rock>
+Worn-Tin<Rock>
